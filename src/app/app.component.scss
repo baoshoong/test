@@ -1,0 +1,35 @@
+#container{
+    margin: 0, auto;
+    padding: 10px;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 10px ;
+    width: 250px;
+    height: 100px;
+    background-color: bisque;
+}
+
+
+input{
+    display: flex;
+    
+    height: 30px;
+
+
+}
+
+
+
+#top{
+     padding: 3px;
+}
+#middle{
+    padding: 3px;
+}
+#bottom{
+    padding:  3px;
+}
+
